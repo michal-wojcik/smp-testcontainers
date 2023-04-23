@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# Maven
+.DS_Store
+target/
