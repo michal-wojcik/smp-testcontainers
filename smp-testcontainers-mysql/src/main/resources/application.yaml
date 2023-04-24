@@ -5,6 +5,6 @@ spring:
       ddl-auto: update
       show-sql: true
   datasource:
-    url: jdbc:mysql://localhost:5432/dbname
+    url: jdbc:mysql://localhost:5432/spells
     username:
     password:
