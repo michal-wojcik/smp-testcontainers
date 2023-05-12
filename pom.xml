@@ -13,7 +13,7 @@
     <name>Sample TestContainers Parent</name>
 
     <modules>
-        <module>smp-testcontainers-mysql</module>
+        <module>mysql</module>
     </modules>
 
     <properties>
